@@ -1,0 +1,13 @@
+package com.uom.cps3230.messagingsystem.enums;
+
+public enum MessagingSystemStates {
+	MAIN_PAGE,
+	WELCOME_PAGE,
+	REQUESTLOGINKEY_PAGE,
+	LOGIN_PAGE,
+	LOGGEDINMENU_PAGE,
+	SENDMESSAGE_PAGE,
+	READMESSAGE_PAGE,
+    LOGOUT_PAGE,
+    CANNOTSENDMESSAGE_PAGE
+}
